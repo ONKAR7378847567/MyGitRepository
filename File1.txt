@@ -10,4 +10,10 @@ public void helloGit(){
 	System.out.println("Hello Git");
 
 }
+
+void myBigMethod()
+{
+sysout("Has a Method impl");
+}
+
 }
