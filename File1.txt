@@ -1,11 +1,13 @@
-This is my first git..welcome to git...
+//This is my first git..welcome to git...
 
 class HelloGit{
     public static void main(String str[]){
-	}
+	HelloGit hg=new HelloGit();
+	hg.helloGit();
+}
 
 public void helloGit(){
-	sysout("Hello Git");
+	System.out.println("Hello Git");
 
 }
 }
