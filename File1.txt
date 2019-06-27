@@ -3,7 +3,7 @@
 class HelloGit{
     public static void main(String str[]){
 	HelloGit hg=new HelloGit();
-	hg.helloGit();
+	HelloGit.helloGit();
 }
 
 public void helloGit(){
