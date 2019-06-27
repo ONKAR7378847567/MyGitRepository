@@ -12,7 +12,7 @@ public static final void helloGit(String str){
 }
 public static void myBigMethod()
 {
-	sysout("Has a Method impl");
+	System.out.println("Has a Method impl");
 }
 
 }
