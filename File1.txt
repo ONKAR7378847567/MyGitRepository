@@ -10,10 +10,9 @@ public static final void helloGit(String str){
 	System.out.println("Hello Git");
 
 }
-
-void myBigMethod()
+public static void myBigMethod()
 {
-sysout("Has a Method impl");
+	sysout("Has a Method impl");
 }
 
 }
